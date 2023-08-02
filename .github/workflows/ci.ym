@@ -1,5 +1,5 @@
 # 项目名
-name: un-fix
+name: un-fix.github.io
 
 # 只有在main分支发生push事件时触发
 on:
