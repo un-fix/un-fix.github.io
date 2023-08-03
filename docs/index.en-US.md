@@ -11,7 +11,7 @@ hero:
 features:
   - emoji: 🚀
     title: 武汉分会
-    # link: 可为标题配置超链接
+    link: 可为标题配置超链接
     description: 可以配置 HTML 文本
   - title: 南京分会
     emoji: 🌈

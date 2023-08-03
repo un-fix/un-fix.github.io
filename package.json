@@ -23,11 +23,13 @@
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
+    "@umijs/plugins": "^4.0.74",
     "cz-customizable": "^7.0.0",
     "dumi": "^2.2.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.3.3"
   },
   "authors": [
     "changweihua@outlook.com"
