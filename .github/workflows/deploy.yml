@@ -29,18 +29,6 @@ jobs:
           npm install
           npm run build
 
-
-      - uses: actions/configure-pages@v2 
-  
-      - uses:
-actions/upload-pages-artifact@v1 
-       with: 
-           path: dist 
-  
-      - name: Deploy 
-        id: deployment 
-        uses: actions/deploy-pages@v1
-
       # 部署到github
       - name: Deploy to Github
         uses: JamesIves/github-pages-deploy-action@4.0.0
